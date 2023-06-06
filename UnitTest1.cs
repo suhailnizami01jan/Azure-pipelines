@@ -3,11 +3,11 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TestAutomation
 {
-    [TestClass]
-	public UnitTest1
+        [TestClass]
+	public class UnitTest1
 	{
        
-	   [TestMethod]
+       [TestMethod]
        public void Testmethod1()
        {
 
